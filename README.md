@@ -13,6 +13,7 @@ It is a comprehensive up-to-date Vaccine tracker, COVID-19 tracker and Treatment
 ### Across India
 ![india](https://user-images.githubusercontent.com/73905298/128553928-9a13b4e4-03d2-43e3-aca6-c347b8305303.jpg)
 
+### Covid 19 Trending News
 ![news](https://user-images.githubusercontent.com/73905298/128554003-62dbadcf-aa3c-4347-9579-e43774c13496.jpg)
 
 
