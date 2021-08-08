@@ -5,7 +5,7 @@ An application which gives the information about various details with regards to
 VACCOVID - coronavirus, vaccine and treatment tracker.
 It is a comprehensive up-to-date Vaccine tracker, COVID-19 tracker and Treatment tracker which has contains information about the present novel coronavirus (COVID-19) pandemic. It also provides the most relevant and up-to-date news about covid-19.
 
-## Results
+## Display
 
 ### Countries in Asia
 ![japan](https://user-images.githubusercontent.com/73905298/128553860-8c2b8d61-a27c-4775-853b-9d95349f6242.jpg)
